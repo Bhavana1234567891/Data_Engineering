@@ -1,0 +1,7 @@
+source_id,ann_time,kind,offset_seconds,expected_frame,rectangle_x_expected,label,opencv_position_after_read,read_success
+clip_a,0.5,naive,0.0,15,15,naive t=0.5 f=15,16.0,True
+clip_a,0.5,corrected,0.2,21,21,corrected t=0.5 f=21,22.0,True
+clip_a,1.0,naive,0.0,30,30,naive t=1.0 f=30,31.0,True
+clip_a,1.0,corrected,0.2,36,36,corrected t=1.0 f=36,37.0,True
+clip_a,1.5,naive,0.0,45,45,naive t=1.5 f=45,46.0,True
+clip_a,1.5,corrected,0.2,51,51,corrected t=1.5 f=51,52.0,True
