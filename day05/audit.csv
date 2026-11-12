@@ -1,0 +1,16 @@
+id,generator,human,agree
+1,A,A,True
+2,A,A,True
+3,A,P,False
+4,P,P,True
+5,P,P,True
+6,N,N,True
+7,N,N,True
+8,A,A,True
+9,A,A,True
+10,P,A,False
+11,A,A,True
+12,N,N,True
+13,P,N,False
+14,A,A,True
+15,A,A,True
